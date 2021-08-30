@@ -1,0 +1,36 @@
+.form {
+  width: 100%;
+  margin: 9rem auto;
+}
+.button + .button {
+  margin: 1rem;
+}
+.label {
+  width: 100px;
+  margin-left: 4rem;
+}
+.label,
+input {
+  display: inline-block;
+}
+
+.label {
+  margin-top: 1rem;
+  color: white;
+}
+
+.btn-wrapper {
+  margin-top: 1rem;
+  margin-left: 5.8rem;
+}
+
+.formName {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-left: 4.5rem;
+  color: white;
+}
+
+.alterBut {
+  margin-left: 5.5rem;
+}
